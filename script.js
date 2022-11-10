@@ -8,7 +8,7 @@ setTimeout(() => {
 }, 500);
 };
 
-let placar = setInterval(updated);
+/*let placar = setInterval(updated);
 let pontuacao = 0;
 
 function updated(){
@@ -54,7 +54,7 @@ const loopGame = setInterval(() => {
 
     };
 
-}, 10);
+}, 10);*/
 
 
 document.addEventListener("keydown", jump);
